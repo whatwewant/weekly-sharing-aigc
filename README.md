@@ -7,6 +7,10 @@
 
 ![](./images/WeChat-QRCode.png)
 
+### [#003 - MarsCode 字节新推出的 AI 编程助手，GitHub Copilot 替代品（2024.05.13）](./003%20-%202024.05.07.md)
+
+> 今日分享 AIGC 周刊 #003：MarsCode - 字节新推出的 AI 编程助手，GitHub Copilot 替代品；手把手教你创造你的本地私人 ChatGPT（上）：本地大模型 Ollama；DeepSeek-V2 - 国产开源 MoE 指标炸裂，GPT-4 级别能力，API 价格仅百分之一；OpenAI 官宣下周一发布产品更新，但不会涉及 GPT-5 和搜索引擎
+
 ### [#002 - 适用于任何服装和任何人的超高品质虚拟试穿（2024.05.06）](./002%20-%202024.05.06.md)
 
 > 今日分享 AIGC 周刊 #002：OutfitAnyone AI - 适用于任何服装和任何人的超高品质虚拟试穿；Qwen - 阿里云的大模型；Llm-Universe - 《动手学大模型应用开发》；Google Chrome突破性更新：一键访问Gemini功能；StoryDiffusion - 高质量开源漫画生成，支持连续人物，多种漫画风格
