@@ -7,7 +7,11 @@
 
 ![](./images/WeChat-QRCode.png)
 
-### [#003 - MarsCode 字节新推出的 AI 编程助手，GitHub Copilot 替代品（2024.05.13）](./003%20-%202024.05.07.md)
+### [#004 - OpenAI 发布 GPT-4o 全能模型，谷歌 Project Astra 正面反击（2024.05.20）](./004%20-%202024.05.20.md)
+
+> 今日分享 AIGC 周刊 #004：awesome-LLMs-In-China - 中国大模型列表；Devon - 一个开源的编程助手；国产大模型：今天起，我们 100 万 tokens 只需 1 元；OpenAI 发布 GPT-4o全能模型：支持实时语音视频交互、速度比GPT-4 Turbo快2倍；谷歌反击：Project Astra正面硬刚GPT-4o、Veo对抗Sora、新版Gemini变革搜索
+
+### [#003 - MarsCode 字节新推出的 AI 编程助手，GitHub Copilot 替代品（2024.05.13）](./003%20-%202024.05.13.md)
 
 > 今日分享 AIGC 周刊 #003：MarsCode - 字节新推出的 AI 编程助手，GitHub Copilot 替代品；手把手教你创造你的本地私人 ChatGPT（上）：本地大模型 Ollama；DeepSeek-V2 - 国产开源 MoE 指标炸裂，GPT-4 级别能力，API 价格仅百分之一；OpenAI 官宣下周一发布产品更新，但不会涉及 GPT-5 和搜索引擎
 
