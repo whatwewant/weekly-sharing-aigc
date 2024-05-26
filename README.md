@@ -7,6 +7,10 @@
 
 ![](./images/WeChat-QRCode.png)
 
+### [#005 - 开源的大型多模态模型 LLaVA-NeXT（2024.05.27）](./005%20-%202024.05.27.md)
+
+> 今日分享 AIGC 周刊 #005：LLaVA-NeXT - 一种开源的大型多模态模型；DashPlayer - 为英语学习者量身打造的视频播放器；SQL Chat - 基于对话的SQL客户端，自然语言与数据库交互实现查询、修改和删除操作；Microsoft Power Automate - 微软 AI 语音自动化操作助手；李飞飞：大模型不具备知觉，参数再多也不行
+
 ### [#004 - OpenAI 发布 GPT-4o 全能模型，谷歌 Project Astra 正面反击（2024.05.20）](./004%20-%202024.05.20.md)
 
 > 今日分享 AIGC 周刊 #004：awesome-LLMs-In-China - 中国大模型列表；Devon - 一个开源的编程助手；国产大模型：今天起，我们 100 万 tokens 只需 1 元；OpenAI 发布 GPT-4o全能模型：支持实时语音视频交互、速度比GPT-4 Turbo快2倍；谷歌反击：Project Astra正面硬刚GPT-4o、Veo对抗Sora、新版Gemini变革搜索
