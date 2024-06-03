@@ -7,6 +7,10 @@
 
 ![](./images/WeChat-QRCode.png)
 
+### [#006 - 直接在浏览器上跑大模型（2024.06.03）](./006%20-%202024.06.03.md)
+
+> 今日分享 AIGC 周刊 #006：直接在浏览器上跑大模型；bisheng - 一款开源的 LLM DevOps 平台，类似 Dify；anything-llm - 一款最易于使用的一体化AI桌面软件，可以执行RAG、AI问答操作；Meta AI 的首席执行官LeCun：不要从事LLM工作；OpenAI被曝帮苹果Siri换脑，微软急了：CEO约谈奥特曼
+
 ### [#005 - 开源的大型多模态模型 LLaVA-NeXT（2024.05.27）](./005%20-%202024.05.27.md)
 
 > 今日分享 AIGC 周刊 #005：LLaVA-NeXT - 一种开源的大型多模态模型；DashPlayer - 为英语学习者量身打造的视频播放器；SQL Chat - 基于对话的SQL客户端，自然语言与数据库交互实现查询、修改和删除操作；Microsoft Power Automate - 微软 AI 语音自动化操作助手；李飞飞：大模型不具备知觉，参数再多也不行
